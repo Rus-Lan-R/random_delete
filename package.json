@@ -1,0 +1,21 @@
+{
+  "name": "random_delete",
+  "version": "1.0.0",
+  "description": "npm module whos delete random file in project",
+  "main": "index.js",
+  "scripts": {
+    "runapp": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rus-Lan-R/random_delete.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rus-Lan-R/random_delete/issues"
+  },
+  "homepage": "https://github.com/Rus-Lan-R/random_delete#readme"
+}
